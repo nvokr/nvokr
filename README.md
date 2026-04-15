@@ -16,6 +16,9 @@ $ cat current_status.txt
 > Deep diving into C++20, memory management, and system architecture.
 ```
 
+> 💡 **Bridging the gap between Web and System Engineering**  
+> After spending 8+ years designing scalable backends and APIs, I decided to challenge myself and get closer to the hardware. My current adventure is building my own minimalist IDE from scratch. I am passionate about clean code, smart architecture, and continuous learning.
+
 ---
 
 ### Tech Stack
